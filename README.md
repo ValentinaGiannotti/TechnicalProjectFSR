@@ -73,3 +73,8 @@ Trajectories were tested in both obstacle-free and obstacle-present environments
   <img src="images/trajectory_planning.png" width="45%" />
   <img src="images/rrt.png" width="45%" />
 </p>
+
+## Contributors
+- **Andrea Morghen**
+- **Valentina Giannotti**
+- **Salvatore del Peschio**
